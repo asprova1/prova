@@ -16,3 +16,5 @@
 
 #patch5 asprova1
 #patch5 asprova2
+
+#patch6 asprova1
