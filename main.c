@@ -19,3 +19,5 @@
 
 #patch6 asprova1
 #patch6 asprova2
+
+#patch7 asprova1
